@@ -29,3 +29,9 @@ I'll get some minors statistics about the NBA players and I'll perform graphics 
 There is an .ipynb file of the project called AnyoneAI_Project_1.ipynb.
 The repository contains a group of .csv files that were generated with the different endpoints of NBA API so in case they stop working the .ipynb can still get the data from here.
 There is also a folder with the data necessary to generate a map in the .ipynb.
+
+## Next Part
+
+In another repository, I'll be continuing with the ML model where I'll use some linear models such as SGDRegressor and also some Non Linear model like DecisionTreeRegressor.  
+Link: [enter link description here](https://github.com/Gonzalez-Matias/Anyone_Sprint_2.git)
+
