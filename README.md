@@ -2,7 +2,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-dVcJLNeI7NdoFRskqhW5QFdg1SAwxVgGMg&usqp=CAU"/>
 </p>
 
-# NBA Sprint Project
+# NBA Sprint Project: Data gathering
 In this project I will rely heavily in the use of API as data sources. Contrary to most machine learning challenges and competitions, working in the industry usually requires the ML Developer to work with multiple teams and use heterogeneous sources of information to get the necessary data to solve a particular problem. Access to data is often provided through application programming interfaces (APIs), whether internal or external to the organization. It is very important to understand how to interact with APIs to collect data in our day to day work.
 
 ## Parts
