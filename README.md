@@ -33,5 +33,5 @@ There is also a folder with the data necessary to generate a map in the .ipynb.
 ## Next Part
 
 In another repository, I'll be continuing with the ML model where I'll use some linear models such as SGDRegressor and also some Non Linear model like DecisionTreeRegressor.  
-Link: [enter link description here](https://github.com/Gonzalez-Matias/Anyone_Sprint_2.git)
+Link: [Anyone_Sprint_2](https://github.com/Gonzalez-Matias/Anyone_Sprint_2.git)
 
