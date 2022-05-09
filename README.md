@@ -10,9 +10,9 @@ In this project I will rely heavily in the use of API as data sources. Contrary 
 The project is divided in 3 main parts:
 * Collecting information for building our dataset
 * Data Cleaning and Preprocessing
-*  Analyzing and Visualizing data
+* Analyzing and Visualizing data
 
-### Create files and folders
+### Collecting information for building our dataset
 
 Here I'm only going to work on collecting the necessary raw data to build the required dataset, generate the appropiate fields and merge the data into a single dataframe.
 
